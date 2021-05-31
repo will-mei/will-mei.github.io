@@ -1,0 +1,13 @@
+baseURL = "http://itinsight.online/"
+languageCode = "en-us"
+title = "IT Insight Online"
+
+theme = "jeffprod"
+
+[permalinks]
+    post = "/:year/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
+

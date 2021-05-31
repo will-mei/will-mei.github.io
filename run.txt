@@ -1,0 +1,1 @@
+hugo server --baseURL=https://hugo.iterdaily.com --appendPort=false --liveReloadPort=443 -D 

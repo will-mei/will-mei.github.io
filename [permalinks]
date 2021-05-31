@@ -1,0 +1,10 @@
+    
+st = "/:year/:filename"
+
+[taxonomies]
+    tag = "tags"
+        archive = "archives"
+
+    
+    
+    
