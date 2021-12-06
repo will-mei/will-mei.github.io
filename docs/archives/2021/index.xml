@@ -1,21 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021 on IT Insight Online</title>
-    <link>http://itinsight.online/archives/2021/</link>
+    <link>https://itinsight.online/archives/2021/</link>
     <description>Recent content in 2021 on IT Insight Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 May 2021 12:02:18 -0400</lastBuildDate>
-    
-        <atom:link href="http://itinsight.online/archives/2021/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 31 May 2021 12:02:18 -0400</lastBuildDate><atom:link href="https://itinsight.online/archives/2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post1</title>
-      <link>http://itinsight.online/2021/post1/</link>
+      <link>https://itinsight.online/2021/post1/</link>
       <pubDate>Mon, 31 May 2021 12:02:18 -0400</pubDate>
       
-      <guid>http://itinsight.online/2021/post1/</guid>
+      <guid>https://itinsight.online/2021/post1/</guid>
       <description>title example</description>
     </item>
     

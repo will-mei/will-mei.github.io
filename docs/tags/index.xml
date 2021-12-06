@@ -1,13 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on IT Insight Online</title>
-    <link>http://itinsight.online/tags/</link>
+    <link>https://itinsight.online/tags/</link>
     <description>Recent content in Tags on IT Insight Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-        <atom:link href="http://itinsight.online/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 24 Aug 2021 10:26:11 +0800</lastBuildDate><atom:link href="https://itinsight.online/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>digitization</title>
+      <link>https://itinsight.online/tags/digitization/</link>
+      <pubDate>Tue, 24 Aug 2021 10:26:11 +0800</pubDate>
+      
+      <guid>https://itinsight.online/tags/digitization/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
