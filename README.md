@@ -1,7 +1,8 @@
 # will-mei.github.io
 
-site name: itinsight.online, upstream(origin): git.iterdaily.com, host server: github.com
 
-folder: /docs
+| upstream         | format          |release domain  | host server       |
+| ---------------- | --------------- |--------------- | ----------------- |
+|push -u old-origin| /docs/(html)    |itinsight.online| will-mei.github.io|
+|push -u     origin| /docs/(html)    |                | git.iterdaily.com |
 
-format: html
